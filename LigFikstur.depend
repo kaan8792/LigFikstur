@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1556714545 source:/home/wpho/LigFikstur/main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+	<wchar.h>
+
